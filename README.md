@@ -1,3 +1,3 @@
 # app_restaurant
 restauran app react tsx
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/app_restaurant)
